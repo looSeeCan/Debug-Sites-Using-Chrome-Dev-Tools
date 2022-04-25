@@ -37,7 +37,7 @@ nav>ul>li a {
     font-weight: bold;
 }
 
-nav>ul>li>a:hover{
+nav>ul>li a:hover {
     color: yellow;
 }
 
@@ -72,8 +72,4 @@ h3 {
 th,
 td {
     padding: 5px;
-}
-
-.test{/*used to see if I could add a class from Chrome Dev Tools*/
-    font-family: cursive;
 }
